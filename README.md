@@ -101,7 +101,11 @@
 ###
 
 ### 📊 My stats!
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtorregrosadev&theme=dracula)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-rosy-nine.vercel.app?user=mtorregrosadev&theme=nord)](https://git.io/streak-stats)
+
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
