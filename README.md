@@ -103,7 +103,7 @@
 ### 📊 My stats!
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-rosy-nine.vercel.app?user=mtorregrosadev&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=mtorregrosadev&theme=nord)](https://git.io/streak-stats)
 
 </div>
 
